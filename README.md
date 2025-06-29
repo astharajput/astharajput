@@ -1,7 +1,7 @@
 ![logo](https://github.com/astharajput/astharajput/blob/main/data.png)
 <h1 align="center">Hi 👋, I'm ASTHA SOLANKI</h1>
 <h3 align="center">DATA ENGINEER</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/26849608/file/original-afb84cdba8888d1004a0088949480b9d.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astharajput&label=Profile%20views&color=0e75b6&style=flat" alt="astharajput" /> </p>
 
@@ -48,6 +48,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astharajput&show_icons=true&locale=en&layout=compact" alt="astharajput" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astharajputk&show_icons=true&locale=en" alt="astharajput" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astharajput&show_icons=true&locale=en" alt="astharajput" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astharajput&" alt="astharajput" /></p>
